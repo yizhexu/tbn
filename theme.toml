@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "tbn"
+license = "MIT"
+licenselink = "https://github.com/yizhexu/tbn/blob/master/LICENSE"
+description = "A theme to be named"
+homepage = "https://github.com/yizhexu/tbn"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Yizhe"
+  homepage = "https://yizhexu.com"
